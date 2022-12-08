@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+torch==1.13.0+cu117
+transformers==4.10.1
+arabert==1.0.1
+farasapy==0.0.14
+re
