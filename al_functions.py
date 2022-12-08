@@ -6,8 +6,6 @@ from arabert.preprocess import ArabertPreprocessor
 import pandas as pd
 import numpy as np
 from scipy.stats import entropy
-from tabulate import tabulate
-from tqdm import trange
 import random, re
 
 def transformers_batch_encoding(input_text, tokenizer):
